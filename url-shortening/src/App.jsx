@@ -1,12 +1,13 @@
+import Main from "./components/Main Section/Main"
 
 
 function App() {
 
-  return (
-    <>
-      
-    </>
-  )
+    return (
+        <div>
+            <Main />
+        </div>
+    )
 }
 
 export default App
