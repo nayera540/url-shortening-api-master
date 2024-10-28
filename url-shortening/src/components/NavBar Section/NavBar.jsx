@@ -24,7 +24,7 @@ function NavBar() {
                             </ul>
                         </div>
                         <div className="navbar-controls flex gap-5">
-                            <button className="btn btn-lgn text-Dark-Gray font-bold text-[15px] duration-300">Login</button>
+                            <button className="btn btn-lgn text-Dark-Gray font-bold duration-300">Login</button>
                             <button className="btn btn-signup bg-Cyan text-white font-bold pt-2 pb-2 w-28 text-center hover:bg-Cyan-hover duration-300 rounded-[7rem]">Sign Up</button>
                         </div>
                     </div>

@@ -8,6 +8,7 @@ export default {
         extend: {
             colors: {
                 "Cyan": "hsl(180, 66%, 49%)",
+                "bg-color": "#f0f1f6",
                 "Cyan-hover": "#91e8e8",
                 "Dark-Violet": "hsl(257, 27%, 26%)",
                 "Red": "hsl(0, 87%, 67%)",

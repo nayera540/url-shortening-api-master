@@ -8,6 +8,6 @@
 
 @layer base{
     body{
-        @apply font-poppins;
+        @apply font-poppins text-[16px] bg-bg-color;
     }
 }
